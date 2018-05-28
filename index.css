@@ -2,4 +2,28 @@ body {
     background-color: black;
     text-align: center;
     color: blue;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+h1 {
+    border: solid;
+    border-color: white;
+}
+
+div {
+    border: solid;
+    border-color: white;
+    margin-top: 15%;
+    height: 500px;
+
+}
+
+h2 {
+    text-align: left;
+    color: red;
+}
+
+ul {
+    text-align: left;
 }
